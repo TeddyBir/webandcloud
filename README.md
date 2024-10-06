@@ -1,3 +1,4 @@
+Modified by REPPERT William, POULALION Maxime, RAMAHEFARINAIVO Stéphane
 # fast install
 
 * precondition: you have a GCP project selected with billing activated. 
